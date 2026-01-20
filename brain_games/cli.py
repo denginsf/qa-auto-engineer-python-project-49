@@ -3,7 +3,7 @@ from prompt import string
 
 def welcome_user() -> str:
     name = string('May I have your name? ')
-    return name
+    print(f'Hello, {name}!')
 
 
 if __name__ == '__main__':
