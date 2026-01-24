@@ -1,24 +1,18 @@
-from random import randint
-
 from prompt import string
 
 
-def be_question() -> int:
+def game_engine(get_data):
     print('Welcome to the Brain Games!')
     name = string('May I have your name? ')
     print(f'Hello, {name}!')
-    print('Answer "yes" if the number is even, otherwise answer "no".')
-    correct_answer = ''
+    rule, task, correct_answer = get_data()
+    print(rule)
     counter = 0
     while counter != 3:
-        number = randint(0, 100)
-        if number % 2 == 0:
-            correct_answer = 'yes'
-        if number % 2 != 0:
-            correct_answer = 'no'
-        print(f'Question: {number:}')
+        _, task, correct_answer = get_data()
+        print(f'Question: {task}')
         answer = string('Your answer: ')
-        if answer.lower() == correct_answer.lower():
+        if answer.lower() == correct_answer:
             print('Correct!')
             counter = counter + 1
         else:
@@ -32,4 +26,4 @@ def be_question() -> int:
 
 
 if __name__ == '__main__':
-    be_question()
+    game_engine()
