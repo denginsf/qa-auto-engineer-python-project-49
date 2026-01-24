@@ -5,4 +5,4 @@
 [![Actions Status](https://github.com/denginsf/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/denginsf/qa-auto-engineer-python-project-49/actions)
 
 ### Brain even
-[![asciicast](https://asciinema.org/a/MmW5e6YZPkyDpkrJ.svg)](https://asciinema.org/a/MmW5e6YZPkyDpkrJ)
+[![asciicast](https://asciinema.org/a/3U7AJjQdWc6sVsDt.svg)](https://asciinema.org/a/3U7AJjQdWc6sVsDt)

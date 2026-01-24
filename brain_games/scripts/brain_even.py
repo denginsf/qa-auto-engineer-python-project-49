@@ -1,5 +1,5 @@
 from brain_games.games.brain_even_gameplay import brain_even_data
-from brain_games.games.engines import game_engine
+from brain_games.games.engine import game_engine
 
 
 def main():
