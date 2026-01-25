@@ -4,5 +4,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/denginsf/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/denginsf/qa-auto-engineer-python-project-49/actions)
 
-### Brain even
+### Brain-even demo
 [![asciicast](https://asciinema.org/a/3U7AJjQdWc6sVsDt.svg)](https://asciinema.org/a/3U7AJjQdWc6sVsDt)
+
+### Brain-calc demo
+[![asciicast](https://asciinema.org/a/jEqV1rtERZs4oSN9.svg)](https://asciinema.org/a/jEqV1rtERZs4oSN9)
