@@ -1,7 +1,7 @@
 [project]
 name = "hexlet-code"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.10"
+description = "First project of 'Python QA Automation' course on hexlet.io"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
