@@ -23,7 +23,3 @@ def game_engine(get_data):
                 )
             exit()
     print(f'Congratulations, {name}!')
-
-
-if __name__ == '__main__':
-    game_engine()
