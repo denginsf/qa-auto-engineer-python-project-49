@@ -2,7 +2,7 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=denginsf_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=denginsf_qa-auto-engineer-python-project-49) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=denginsf_qa-auto-engineer-python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=denginsf_qa-auto-engineer-python-project-49) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=denginsf_qa-auto-engineer-python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=denginsf_qa-auto-engineer-python-project-49)
 
-Первый проект курса - "Автоматизатор тестирования на Python" от Hexlet. Проект представляет набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново. 
+Первый проект курса - "Автоматизатор тестирования на Python" от Hexlet. Проект представляет набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.
 
 Игры:
 
