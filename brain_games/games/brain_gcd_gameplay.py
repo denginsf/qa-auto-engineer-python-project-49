@@ -2,8 +2,8 @@ from random import randint
 
 
 def brain_gcd_data():
-    x1 = randint(1, 1000) #NOSONAR
-    x2 = randint(1, 1000) #NOSONAR
+    x1 = randint(1, 1000)   # NOSONAR
+    x2 = randint(1, 1000)   # NOSONAR
     rule = 'Find the greatest common divisor of given numbers.'
     task = f'{x1} {x2}'
     while x2 != 0:

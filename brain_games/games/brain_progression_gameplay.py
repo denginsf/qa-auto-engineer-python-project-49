@@ -2,8 +2,8 @@ from random import randint
 
 
 def create_progression():
-    start = randint(1, 100) #NOSONAR
-    step = randint(2, 10) #NOSONAR
+    start = randint(1, 100)   # NOSONAR
+    step = randint(2, 10)   # NOSONAR
     progression_range = 10
     progression = []
     for n_index in range(progression_range):
@@ -15,7 +15,7 @@ def create_progression():
 def brain_progression_data():
     rule = 'What number is missing in the progression?'
     start_progression = create_progression()
-    which_remove = randint(0, 9) #NOSONAR
+    which_remove = randint(0, 9)   # NOSONAR
     correct_answer = start_progression[which_remove]
     start_progression[which_remove] = '..'
     task = ' '.join(start_progression)

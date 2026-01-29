@@ -2,10 +2,10 @@ from random import choice, randint
 
 
 def brain_calc_data():
-    x1 = randint(0, 100) #NOSONAR
-    x2 = randint(0, 100) #NOSONAR
+    x1 = randint(0, 100)  # NOSONAR
+    x2 = randint(0, 100)   # NOSONAR
     expressions = ['+', '-', '*']
-    random_expression = choice(expressions) #NOSONAR
+    random_expression = choice(expressions)   # NOSONAR
     rule = 'What is the result of the expression?'
     task = f'{x1} {random_expression} {x2}'
     match random_expression:
