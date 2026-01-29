@@ -2,7 +2,7 @@ from random import randint
 
 
 def brain_prime_data():
-    number_for_task = randint(0, 100)
+    number_for_task = randint(0, 100) #NOSONAR
     rule = 'Answer "yes" if given number is prime. Otherwise answer "no".'
     task = f'{number_for_task}'
     root = int(number_for_task ** 0.5)
